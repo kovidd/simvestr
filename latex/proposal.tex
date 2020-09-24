@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+\usepackage{algpseudocode}
+\usepackage{graphicx}
+\usepackage{subfiles}
+\usepackage{svg}
+\usepackage{pdfpages}
+\usepackage[colorlinks=false]{hyperref}
+\usepackage{listings}
+\usepackage{setspace}
+\onehalfspacing
+\usepackage{appendix}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage[ruled,linesnumbered, noend, vlined]{algorithm2e}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage{parskip}
+\usepackage{url}
+\usepackage{authblk}
+\setlength{\parindent}{0mm}
+
+\usepackage{titlesec}
+\usepackage{mathtools}
+\usepackage{amstext}
+\usepackage{stackengine}
+\usepackage{chngcntr}
+\usepackage{adjustbox}
+\usepackage{etoolbox}
+\usepackage{booktabs, multicol, multirow}
+\usepackage{subcaption}
+\usepackage[nottoc,numbib]{tocbibind}
+\usepackage{enumitem}
+\usepackage{gensymb}
+\usepackage{pdflscape}
+
+\usepackage{array}   % for \newcolumntype macro
+
+\counterwithin*{equation}{section}
+\counterwithin*{equation}{subsection}
+
+\newcommand{\sectionbreak}{\clearpage}
+\newlength{\textundbildtextheight}
+
+\algdef{SE}[SUBALG]{Indent}{EndIndent}{}{\algorithmicend\ }%
+\algtext*{Indent}
+\algtext*{EndIndent}
+
+\usepackage[backend=biber]{biblatex}
+\usepackage{csquotes}
+\bibliographystyle{apalike}
+\bibliography{bibliography}% Syntax for version >= 1.2
+
+
+
+\title{COMP9900 Capstone Project Proposal\\
+
+\large Investment Simulator
+}
+
+
+\author{
+  Jihad Maraachli\\
+  \small z5156156\\
+  \href{mailto:j.meraachli@student.unsw.edu.au}{j.meraachli@student.unsw.edu.au}
+  \and
+  Khan Schroder-Turner\\
+  \small z5020362\\
+  \href{mailto:k.schroder-turner@student.unsw.edu.au}{k.schroder-turner@student.unsw.edu.au}
+  \and
+  Kovid Sharma\\
+  \small z5240067\\
+  \href{mailto:k.sharma.1@student.unsw.edu.au}{k.sharma.1@student.unsw.edu.au}
+  \and
+  Simon Garrod\\
+  \small z3264122\\
+  \href{mailto:simon@unsw.edu.au}{simon@unsw.edu.au}
+  \and
+  Timothy Brunette\\
+  \small z5233368\\
+  \href{mailto:t.brunette@student.unsw.edu.au}{t.brunette@student.unsw.edu.au}
+}
+
+
+%\author{Khan Schroder-Turner\\
+%\small Student: z5020362\\ %replace with your name
+%}
+\maketitle
+\newpage
+
+
+\begin{document}
+
+
+
+    \tableofcontents
+    \thispagestyle{empty}
+
+    \include{1_intro/intro}
+    \include{2_background/background}
+    \include{3_user_stories/user_stories}
+    \include{4_story_boards/story_boards}
+    \include{5_architecture/architecture}
+
+
+    \printbibliography
+    
+\end{document}
