@@ -4,7 +4,30 @@
 \usepackage{subfiles}
 \usepackage{svg}
 \usepackage{pdfpages}
-\usepackage[colorlinks=false]{hyperref}
+\usepackage{hyperref}
+\hypersetup{
+    bookmarks=true,         % show bookmarks bar?
+    unicode=false,          % non-Latin characters in Acrobat’s bookmarks
+    pdftoolbar=true,        % show Acrobat’s toolbar?
+    pdfmenubar=true,        % show Acrobat’s menu?
+    pdffitwindow=false,     % window fit to page when opened
+    pdfstartview={FitH},    % fits the width of the page to the window
+    pdftitle={COMP9900 Capstone Project Proposal, Investment Simulator},    % title
+    pdfauthor={Jihad Maraachli, Khan Schroder-Turner, Kovid Sharma, Simon Garrod, Timothy Brunette
+},     % author
+    pdfsubject={},   % subject of the document
+    pdfcreator={},   % creator of the document
+    pdfproducer={}, % producer of the document
+    pdfkeywords={software, web development, investing, investment simulator}, % list of keywords
+    pdfnewwindow=true,      % links in new PDF window
+    colorlinks=false,       % false: boxed links; true: colored links
+    linkcolor=red,          % color of internal links (change box color with linkbordercolor)
+    citecolor=green,        % color of links to bibliography
+    filecolor=cyan,         % color of file links
+    urlcolor=        % color of external links
+}
+
+
 \usepackage{listings}
 \usepackage{setspace}
 \onehalfspacing
@@ -45,8 +68,9 @@
 
 \usepackage[backend=biber]{biblatex}
 \usepackage{csquotes}
+
 \bibliographystyle{apalike}
-\bibliography{bibliography}% Syntax for version >= 1.2
+\bibliography{bibliography.bib}% Syntax for version >= 1.2
 
 
 
@@ -79,14 +103,10 @@
 }
 
 
-%\author{Khan Schroder-Turner\\
-%\small Student: z5020362\\ %replace with your name
-%}
-\maketitle
-\newpage
-
 
 \begin{document}
+    \maketitle
+    \newpage
 
 
 
