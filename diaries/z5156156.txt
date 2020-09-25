@@ -1,0 +1,17 @@
+Week 01: 
+- Formed group COMP9900-W17A-Please-Get-Degrees
+- Went through the project specs, consulted the group members and finalized project choice (Investment Simulator)
+- Weekly Catchup Meeting on Sunday at 11:00 am: 
+	* Went through the project spec and set an initial plan. 
+	* Jira accounts set up and project created.
+	* Discussed Agile project management: Epic (large body of work or milestone), Stories (sub-work to Epic), Tasks (sub-work to stories).
+
+
+Week 02:
+- Worked on developing a low-fidelity prototype for the Investment Simulator.
+- Learned about Agile Project Management and using Jira.
+- Wrote the intro and background parts for the proposal 
+- added user stories to Jira
+- Create Epics in Jira and assigned stories to the relative epics
+
+

@@ -1,0 +1,5 @@
+Week 1
+-------
+Managed to form a cool group :) We had a meet up on Sunday at 11am - 12pm to discuss the project; settled on InvestmentSimulator.
+I created the github repo and helped familiarise the team with the agile methodology as I have some prior experience.
+Discussed with team the tech stack - most likely python BE + React/JS FE, still need to confirm.
