@@ -53,8 +53,9 @@
 \usepackage{enumitem}
 \usepackage{gensymb}
 \usepackage{pdflscape}
-
+\usepackage{pdfpages}
 \usepackage{array}   % for \newcolumntype macro
+\usepackage{titling}
 
 \counterwithin*{equation}{section}
 \counterwithin*{equation}{subsection}
@@ -73,33 +74,50 @@
 \bibliography{bibliography.bib}% Syntax for version >= 1.2
 
 
+\counterwithin*{equation}{section}
+\counterwithin*{equation}{subsection}
 
-\title{COMP9900 Capstone Project Proposal\\
+\pretitle{%
+	\begin{center}
+		\LARGE
+		\includegraphics[scale = 0.15]{UNSW_logo}\\ \bigskip
+	}
+\posttitle{\end{center}}
 
-\large Investment Simulator
-}
-
+\preauthor{\begin{center}
+		\vspace{1cm}
+		\large \lineskip 1em%
+		\begin{tabular}[t]{>{\centering\arraybackslash}p{.45\textwidth}}}
+\postauthor{\end{tabular}\par\end{center} \vfill}
+\makeatletter
+\renewcommand\and{%                  % \begin{tabular}
+\end{tabular}%
+\hfill
+\begin{tabular}[t]{>{\centering\arraybackslash}p{.45\textwidth}}}%   % \end{tabular}
+\makeatother
+		
+\title{COMP9900 Capstone Project Proposal\\	\large Investment Simulator\\ \vspace{2cm} \textbf{COMP9900-W17A-Please-Get-Degrees} }
 
 \author{
-  Jihad Maraachli\\
+  Jihad Meraachli\\
   \small z5156156\\
-  \href{mailto:j.meraachli@student.unsw.edu.au}{j.meraachli@student.unsw.edu.au}
+  \small \href{mailto:j.meraachli@student.unsw.edu.au}{j.meraachli@student.unsw.edu.au}
   \and
   Khan Schroder-Turner\\
   \small z5020362\\
-  \href{mailto:k.schroder-turner@student.unsw.edu.au}{k.schroder-turner@student.unsw.edu.au}
+  \small \href{mailto:k.schroder-turner@student.unsw.edu.au}{k.schroder-turner@student.unsw.edu.au}
   \and
   Kovid Sharma\\
   \small z5240067\\
-  \href{mailto:k.sharma.1@student.unsw.edu.au}{k.sharma.1@student.unsw.edu.au}
+  \small \href{mailto:k.sharma.1@student.unsw.edu.au}{k.sharma.1@student.unsw.edu.au}
   \and
   Simon Garrod\\
   \small z3264122\\
-  \href{mailto:simon@unsw.edu.au}{simon@unsw.edu.au}
+  \small \href{mailto:simon@unsw.edu.au}{simon@unsw.edu.au}
   \and
   Timothy Brunette\\
   \small z5233368\\
-  \href{mailto:t.brunette@student.unsw.edu.au}{t.brunette@student.unsw.edu.au}
+  \small \href{mailto:t.brunette@student.unsw.edu.au}{t.brunette@student.unsw.edu.au}
 }
 
 
