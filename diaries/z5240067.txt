@@ -1,0 +1,77 @@
+Work Diary
+z5240067 Kovid Sharma
+
+---------------------------------
+
+Week 1 (14 Sep - 20 Sep)
+
+- Formed group COMP9900-W17A-Please-Get-Degrees
+- We had narrowed down the projects to FilmFinder and InvestmentSimulator
+- After a team meeting on Sunday, 20th Sept 2020, we decided to go with InvestmentSimulator
+- Had a brief review of the project description and objective
+- Talked about every ones strengths and weaknesses
+- I setup the Jira account for the team, added mentor Sahil as a Site-Admin
+- Had a look at Scrum roles and Agile methodology
+---------------------------------
+
+Week 2 (21 Sep - 27 Sep)
+
+- Got an in depth review about Agile and Scrum from lectures
+- Getting familiar with Git and Github
+- Had a look at the user stories
+- Decide the epics that are to be done in the first sprint
+- Will explore new similar websites for possible features
+- Think of 2-3 novel features for our project
+- Meeting on Sat 11-12pm for Backend peeps
+- Initialised database design
+- Team meeting on Sun 11-1pm for sprint setup
+---------------------------------
+
+
+Week 3 (28 Sep - 4 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 4 (5 Oct - 11 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 5 (12 Oct - 18 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 6 (19 Oct - 25 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 7 (26 Oct - 1 Nov)
+
+-
+-
+---------------------------------
+
+Week 8 (2 Nov - 8 Nov)
+
+-
+-
+---------------------------------
+
+Week 9 (9 Nov - 15 Nov)
+
+-
+-
+---------------------------------
+
+Week 10 (16 Nov - 22 Nov)
+
+-
+-
+---------------------------------
