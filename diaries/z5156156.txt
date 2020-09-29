@@ -1,4 +1,9 @@
+Jihad Meraachli
+z5156156
+---------------
+
 Week 01: 
+--------
 - Formed group COMP9900-W17A-Please-Get-Degrees
 - Went through the project specs, consulted the group members and finalized project choice (Investment Simulator)
 - Weekly Catchup Meeting on Sunday at 11:00 am: 
@@ -8,6 +13,7 @@ Week 01:
 
 
 Week 02:
+--------
 - Worked on developing a low-fidelity prototype for the Investment Simulator.
 - Learned about Agile Project Management and using Jira.
 - Got myself familiar with Git and Github.
@@ -23,7 +29,7 @@ Week 02:
 	* Cross-checked the proposal with the marking scheme.
 
 Week 03:
-—————
+--------
 - Wrote the story boards section in the project proposal.
 - Updated the user stories to include stories about the novel features.
 
