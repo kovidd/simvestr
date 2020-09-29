@@ -10,8 +10,21 @@ Week 01:
 Week 02:
 - Worked on developing a low-fidelity prototype for the Investment Simulator.
 - Learned about Agile Project Management and using Jira.
-- Wrote the intro and background parts for the proposal 
-- added user stories to Jira
-- Create Epics in Jira and assigned stories to the relative epics
+- Got myself familiar with Git and Github.
+- Created 5 epics in Jira with a total of 31 user stories.
+- Wrote introduction, part of the background, and user stories sections for the project proposal.
+- Catchup Meeting on Saturday at 11:00am:
+	* Discussed novel features to incorporate into the system.
+	* Discussed database design.
+	* Prepared meeting Agenda for the weekly catchup.
+- Weekly Catchup Meeting on Sunday at 11:00 am: 
+	* Went through the user stories and planned the first sprint
+	* Discussed the proposal structure and assigned sections to group members
+	* Cross-checked the proposal with the marking scheme.
+
+Week 03:
+—————
+- Wrote the story boards section in the project proposal.
+- Updated the user stories to include stories about the novel features.
 
 
