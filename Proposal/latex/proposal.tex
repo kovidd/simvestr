@@ -27,11 +27,11 @@
     urlcolor=        % color of external links
 }
 
-
 \usepackage{listings}
 \usepackage{setspace}
 \onehalfspacing
-\usepackage{appendix}
+\usepackage[title, titletoc]{appendix}
+\usepackage{titletoc}
 \usepackage[margin=2.5cm]{geometry}
 \usepackage[ruled,linesnumbered, noend, vlined]{algorithm2e}
 \usepackage{amsmath,amsthm,amssymb}
@@ -55,6 +55,20 @@
 \usepackage{pdflscape}
 \usepackage{array}   % for \newcolumntype macro
 \usepackage{titling}
+\usepackage{incgraph,tikz}
+
+\usepackage{scrlayer}
+\DeclareNewLayer[
+    foreground,
+    %textarea,% use only the textarea
+    contents={%
+      \parbox[b][\layerheight][c]{\layerwidth}
+        {\centering The space above and below the message
+           is intentionally left blank.}%
+    }
+  ]{blankpage.fg}
+\DeclarePageStyleByLayers{blank}{blankpage.fg}
+
 
 \counterwithin*{equation}{section}
 \counterwithin*{equation}{subsection}
@@ -95,7 +109,7 @@
 \begin{tabular}[t]{>{\centering\arraybackslash}p{.45\textwidth}}}%   % \end{tabular}
 \makeatother
 		
-\title{COMP9900 Capstone Project Proposal\\	\large Investment Simulator\\ \vspace{2cm} \textbf{COMP9900-W17A-Please-Get-Degrees} }
+\title{COMP9900 Capstone Project Proposal\\	\large Investment Simulator (Simvestr) \\ \vspace{2cm} \textbf{COMP9900-W17A-Please-Get-Degrees} }
 
 \author{
   Jihad Meraachli\\
@@ -112,7 +126,7 @@
   \and
   Simon Garrod\\
   \small z3264122\\
-  \small \href{mailto:simon@unsw.edu.au}{simon@unsw.edu.au}
+  \small \href{mailto:s.garrod@student.unsw.edu.au}{s.garrod@student.unsw.edu.au}
   \and
   Timothy Brunette\\
   \small z5233368\\
@@ -120,23 +134,48 @@
 }
 
 
-
 \begin{document}
     \maketitle
+    \thispagestyle{empty} 
+    \newpage\null\thispagestyle{blank}\newpage
+    
     \newpage
-
-
-
+    \pagenumbering{roman}
     \tableofcontents
+    \listoffigures
+    \listoftables
+    \newpage
     \thispagestyle{empty}
-
+    \pagenumbering{arabic}
     \include{1_intro/intro}
-    \include{2_background/background}
-    \include{3_user_stories/user_stories}
-    \include{4_story_boards/story_boards}
+    \include{2_background/background}% worth 10%
+    \include{3_story_boards/story_boards}
+    \include{4_user_stories/user_stories}
     \include{5_architecture/architecture}
-
-
+    \include{6_roadmap/roadmap}
+    
     \printbibliography
+    
+    
+    \newpage\null\thispagestyle{blank}\newpage
+    
+    \pagenumbering{Roman}
+    \addcontentsline{toc}{part}{Appendix}%
+    \begin{appendices}
+        \section{Sprint 1 Stories}
+    
+            \incgraph[]{./4_user_stories/sprint1.png}
+        \break
+    
+        \section{Sprint Schedule}
+        
+            \incgraph[]{./4_user_stories/sprint_schedule.pdf}
+    
+        \break
+    
+        \section{Backlog}
+            \incgraph[]{./4_user_stories/Backlog.pdf}
+    \end{appendices}
+    
     
 \end{document}
