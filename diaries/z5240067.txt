@@ -30,12 +30,16 @@ Week 2 (21 Sep - 27 Sep)
 
 Week 3 (28 Sep - 4 Oct)
 
-- 
-- 
+- Had 3 meetings (Wed, Sat, Sun) this week to finalise the features and work on the proposal
+- Worked on the System Architecture section of the proposal
+- Made the system architecture, user interaction and database design diagrams
+- Started working on the authenticating user part of Simvestr
 ---------------------------------
 
 Week 4 (5 Oct - 11 Oct)
 
+- Started prepping for Progressive Demo A
+- Token-based authentication implemented in BE
 - 
 - 
 ---------------------------------
