@@ -1,0 +1,43 @@
+Khan Schroder-Turner
+z5020362
+
+========================================================================================================================
+
+Week 1:
+    * Managed to find a cool group. Had first team meeting - I sorted meetings for the smeester; 11 am Sunday mornings.
+    * We all went through the project specs, decided on INvestment simulator.
+    * Discussed technologies, decided on python backend (Flask/Django). JS front end (React likely)
+    * Started LaTeX skeleton for prop
+
+========================================================================================================================
+
+Week 2:
+    * Finished LaTeX Skeleton.
+    * Set up Overleaf.
+    * Integrated Overleaf with our Git (once set up)
+    * Started the backend structure
+    * Went through user stories in team meetings. This helped guide the backend architecture.
+    * Iterating ideas for novel features
+    * Three meetings this week.
+
+========================================================================================================================
+
+Week 3:
+    * Worked a bit on the backend.
+    * Set up the project structure for the back end to where I'm happy with it.
+    * Made example api end points for the team to run with and expand on.
+    * Set up dummy database and api's into it.
+    * Started to build out testing - needs work.
+    * Did a lot of work on the proposal prior to submission. Reviews, formatting and exisiting systems section.
+    * Three meetings this week.
+
+========================================================================================================================
+
+Week 4:
+    * Pushed backend to DEV branch.
+    * Minor api tweaks - many more to come.
+    * Started integrating Kovids authentication into the main structure. Looking good.
+    * Building out some database models.
+    * Working on search and watchlist user stories.
+    * Worked on packaging and installation
+    * Built run file
