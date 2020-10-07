@@ -25,12 +25,28 @@ Week 02:
 	* Prepared meeting Agenda for the weekly catchup.
 - Weekly Catchup Meeting on Sunday at 11:00 am: 
 	* Went through the user stories and planned the first sprint
-	* Discussed the proposal structure and assigned sections to group members
+	* Discussed the proposal structure and assigned sections to group members.
 	* Cross-checked the proposal with the marking scheme.
+
 
 Week 03:
 --------
 - Wrote the story boards section in the project proposal.
 - Updated the user stories to include stories about the novel features.
+- Added the link between user stories and project objectives done by Simon to the proposal.
+- Catchup Meeting on Saturday at 11:00am:
+	* Reviewed the proposal and assigned remaining work-to-do
+- Worked on updating the comments of the team on the sections of the proposal I worked on.
+- Weekly Catchup Meeting on Sunday at 11:00 am: 
+	* Additional comments and feedback on the proposal.
+- Reviewed the proposal document before Kovid submits it.
 
+
+Week 04:
+--------
+- Continued working on the front-end design of the login/signup pages that Tim has started.
+- Updated the signup page and login page to be consistent with one another.
+- Added signup form validation for first name, last name, email, password, and confirm password.
+- Added validation that none of the fields are empty once signup form is submitted.
+	
 
