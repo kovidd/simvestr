@@ -1,16 +1,55 @@
 % !TEX root = ..\proposal.tex
 
+
 \section{Background}
     \label{sec:background}
 
 \subsection{Problem Statement}
     \label{subsec:problem_statement}
     
-Although today several systems exist that tackle the virtualization of a trading ecosystem, many fall short of the intended goal which is to create a real experience for the users to better understand the risks involved in trading the stock market and in order to asses their skill sets. The reason behind falling short, is that these systems are often linked to actual real money trading brokers who wish to capitalize on the virtual ecosystem offering. This is done through making the virtual account available for only a limited amount of time (e.g. 1 week or 1 month) and then the account is automatically closed down whereby the systems often try to lure the user into depositing real money and starting real trading. A short duration of time is not sufficient to tackle a full experience within the stock market given its long-term nature as opposed to other trading instruments such as Forex trading and options trading. Our systems aims to fill the gap through offering an open-ended virtual accounts with no termination date in order to ensure that our users can benefit from an effective marketplace to learn, observe, and trade virtual stocks rather than learning through blowing up their own accounts and wasting their real money.
-
-{\color{red} CAN BE EXPANDED FURTHER ONCE NOVEL FEATURES ARE DECIDED.}
+Although many systems exist that tackle the virtualisation of a trading ecosystem, many fall short of the intended goal; to create a real experience for the users to better understand the risks involved in trading the stock market and to asses their skill sets. Such systems are often linked to real cash trading brokers who wish to capitalise on the virtual ecosystem offering. This is done through making the virtual account available for only a limited amount of time (e.g. 1 week or 1 month) before the account is automatically closed. After this, these systems often try to lure the user into depositing real money and start real trading. A short duration of time is not sufficient to tackle a full experience within the stock market given its long-term nature as opposed to other trading instruments such as Forex trading and options trading. Our systems aims to fill the gap through offering an open-ended virtual accounts with no termination date in order to ensure that our users can benefit from an effective marketplace to learn, observe, and trade virtual stocks rather than learning through blowing up their own accounts and potentially losing their real money.
 
 \subsection{Existing Systems}
-    \label{subsec:existing_systems}
+\label{subsec:existing_systems}
     
-{\color{red} IDENTIFY EXISTING WORK OR SYSTEMS IN THE SAME PROBLEM DOMAIN AND THEIR DRAWBACKS.}
+There are several systems that offer similar services; 
+\begin{enumerate}
+    \item \href{https://www.investopedia.com/simulator/portfolio/nogamestotradein.aspx}{Investopedia Stock Simulator}\label{alt:investop}
+    \item \href{https://app.wallstreetsurvivor.com/}{Wall Street Survivor} \label{alt:wallst}
+    \item \href{https://www.stocktrak.com/}{Stock Trak}\label{alt:stocktrak}
+    \item \href{https://www.howthemarketworks.com/}{HOWTHEMARKETWORKS}\label{alt:howmarket}
+    \item \href{https://www.asx.com.au/education/sharemarket-game.htm}{Sharemarket Game}\label{alt:sharegame}
+\end{enumerate}
+
+Each alternative has a varying feature set, notably item \ref{alt:howmarket} is the most well developed of the options. It has all of the base features required in the project brief, and many additional features. The interface is markedly the best of the alternatives, though doesn't come without some features to be desired, these are described in Table \ref{tab:drawbacks} below.
+    
+The poorest of the options is item \ref{alt:investop}, having limited functionality and a poor interface resulting in an unpleasant user experience. The website doesn't re-size correctly, provide announcements or a news feed for watched or bought investments or have a watch list feature. This is quickly followed by item \ref{alt:sharegame}; though it has more features, the interface is similarly awkward and limits users to Australian companies.
+    
+All options except for item \ref{alt:stocktrak} are free. Hence, it was not possible to evaluate the disadvantages of the platform outside of the disadvantage that it is not a free service. This disadvantage alone is a large deterrent for many users when there are other high quality platforms available.
+    
+A common draw back among all the alternatives is the UX design and interface. The designs across all platforms are either aesthetically unpleasing, or mirror standard enterprise designs for charting and usability. The interfaces are either unpleasant or un-intuitive, with the exception of item \ref{alt:howmarket} which is simply too cluttered although being straight forward; and even it has mismatched design themes throughout the site.
+    
+
+\begin{table}[htbp]
+  \centering
+  \caption{Alternative Drawbacks}\label{tab:drawbacks}
+    \begin{tabular}{r|p{20.285em}}
+    \textbf{Alternative} & \multicolumn{1}{l}{\textbf{Drawbacks}} \\
+    \midrule
+    Investopedia Stock Simulator (Item \ref{alt:investop}) & Poor interface\newline{}Have to join a competition to use the platform\newline{}No watchlist \newline{}No excel or CSV export of portfolio or trade history \\
+    \midrule
+    Wall Street Survivor (Item \ref{alt:wallst}) & Clunky interface, hard to navigate, inconsistent theming\newline{}No option for percentage fee when making trades\newline{}Trading search is buggy\newline{}No excel or CSV export of portfolio or trade history \\
+    \midrule
+    Stock Trak (Item \ref{alt:stocktrak}) & Paid service (as such other features cannot be compared) \\
+    \midrule
+    HOWTHEMARKETWORKS (Item \ref{alt:howmarket}) & Limited timescales for portfolio viewer\newline{}Best interface of the alternatives, but very cluttered and noisy in parts of the application \newline{} Inconsistent design themes in places\newline{}Can only compare to one indices at a time\newline{}Can't compare multiple user portfolios \\
+    \midrule
+    Sharemarket Game (Item \ref{alt:sharegame})& Can only participate in stock games, no running performance\newline{}Clunky and confusing interface, particularly for buying/selling - have to select company from drop down\newline{}Buggy graphs and dashboard \newline{}Only ASX shares \newline{}No excel or CSV export of portfolio\\
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+
+
+
+% Possible differentiator - scenario modeller, prize pool (\$1 - \$5 entry fee, split up pool; amongst top 3, top 10 get entry fee back/ or free entry into next comp), recommended stocks, multiple portfolios, compare to interest rate from bank/term deposit/bonds/property (i.e. a benchmark), mixed portfolio models
