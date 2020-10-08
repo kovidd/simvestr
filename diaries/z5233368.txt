@@ -1,5 +1,75 @@
-Week 1
--------
-Managed to form a cool group :) We had a meet up on Sunday at 11am - 12pm to discuss the project; settled on InvestmentSimulator.
-I created the github repo and helped familiarise the team with the agile methodology as I have some prior experience.
-Discussed with team the tech stack - most likely python BE + React/JS FE, still need to confirm.
+Work Diary
+z5233368 Timothy Brunette
+
+---------------------------------
+
+Week 1 (14 Sep - 20 Sep)
+
+- Managed to form a cool group :) We had a meet up on Sunday at 11am - 12pm to discuss the project; settled on InvestmentSimulator.
+- I created the github repo and helped familiarise the team with the agile methodology as I have some prior experience.
+- Discussed with team the tech stack - most likely python BE + React/JS FE, still need to confirm.
+---------------------------------
+
+Week 2 (21 Sep - 27 Sep)
+
+- Reviewed user stories and added some details
+- Sort out the githubs and merge over to the capstone-project github team as required
+- Start working on the FE, get the React App created
+- Joined backend meeting on Sat 11-12pm and helped the team determine the best structure
+- Team meeting on Sun 11-1pm for sprint setup
+- Helped break down sprint items
+---------------------------------
+
+
+Week 3 (28 Sep - 4 Oct)
+
+- Had 3 meetings (Wed, Sat, Sun) this week to finalise the features and work on the proposal
+- Reviewed the system architecture part of the proposal, made several additions
+- Reviewed and updated the novel features part of the proposal
+- Worked on building the signup page and getting the overall theme of the FE sorted
+- Decided on retro theme for the app
+---------------------------------
+
+Week 4 (5 Oct - 11 Oct)
+
+- Started prepping for Progressive Demo A
+- Meeting on the 7th of October, discussed with team API structure and task allocations
+- FE development work - build the homepage, setup for API integration, finalise color theme
+-
+---------------------------------
+
+Week 5 (12 Oct - 18 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 6 (19 Oct - 25 Oct)
+
+- 
+- 
+---------------------------------
+
+Week 7 (26 Oct - 1 Nov)
+
+-
+-
+---------------------------------
+
+Week 8 (2 Nov - 8 Nov)
+
+-
+-
+---------------------------------
+
+Week 9 (9 Nov - 15 Nov)
+
+-
+-
+---------------------------------
+
+Week 10 (16 Nov - 22 Nov)
+
+-
+-
+---------------------------------
