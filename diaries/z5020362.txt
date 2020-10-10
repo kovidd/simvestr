@@ -41,3 +41,6 @@ Week 4:
     * Working on search and watchlist user stories.
     * Worked on packaging and installation
     * Built run file
+    * Built packaging
+    * Wrote install and package instructions
+    * Built out rough stock search api
