@@ -40,13 +40,16 @@ Week 4 (5 Oct - 11 Oct)
 
 - Started prepping for Progressive Demo A
 - Token-based authentication implemented in BE
-- 
-- 
+- Did the Authentication and Landing page epic
+- Worked on Signup, Login, ForgotUser Password stories
+- Integrated these apis into the main structure
 ---------------------------------
 
 Week 5 (12 Oct - 18 Oct)
 
-- 
+- Sprint 2 has started
+- Started work on user story Buying and Selling stocks, adding them to Portfolio
+- Had Progressive Demo A on Wednesday, worked on Retrospective A just after the Demo
 - 
 ---------------------------------
 
