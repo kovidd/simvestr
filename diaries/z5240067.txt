@@ -49,8 +49,9 @@ Week 5 (12 Oct - 18 Oct)
 
 - Sprint 2 has started
 - Started work on user story Buying and Selling stocks, adding them to Portfolio
-- Had Progressive Demo A on Wednesday, worked on Retrospective A just after the Demo
-- 
+- Had Progressive Demo A on Wednesday, 
+- Had a Retrospective meeting on Sun 11am-1pm, discussed the issues and assigned remaining tasks
+- Worked on BE for login authentication with cookie, added another api for verifying the token
 ---------------------------------
 
 Week 6 (19 Oct - 25 Oct)
