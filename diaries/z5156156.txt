@@ -24,7 +24,7 @@ Week 02:
 	* Discussed database design.
 	* Prepared meeting Agenda for the weekly catchup.
 - Weekly Catchup Meeting on Sunday at 11:00 am: 
-	* Went through the user stories and planned the first sprint
+	* Went through the user stories and planned the first sprint.
 	* Discussed the proposal structure and assigned sections to group members.
 	* Cross-checked the proposal with the marking scheme.
 
@@ -48,5 +48,21 @@ Week 04:
 - Updated the signup page and login page to be consistent with one another.
 - Added signup form validation for first name, last name, email, password, and confirm password.
 - Added validation that none of the fields are empty once signup form is submitted.
+- Converted code to React hooks instead of using classes.
+- Did front-end back-end integration for user signup/login.
+- Weekly Catchup Meeting on Sunday at 11:00 am: 
+	* Discussed the progressive demo.
+	* Sprint 2 started.
+	
+
+Week 05:
+--------
+- Updated code to use react-hooks-form for easier validation.
+- First demo completed on Wednesday
+- Retrospective meeting on Sunday at 11:00 am:
+	* Prepared the restrospective report to be submitted.
+	* Discussed things to try for the next sprint.
+- Worked on the front-end design for the user account settings and awaiting endpoints to integrate with backend.
+	
 	
 
