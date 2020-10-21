@@ -40,14 +40,14 @@ Week 4 (5 Oct - 11 Oct)
 
 Week 5 (12 Oct - 18 Oct)
 
-- 
-- 
+- Helped demo the presentation of the application to tutor
+- Team retro/review of progress -> helped run the session and put together the documentation
 ---------------------------------
 
 Week 6 (19 Oct - 25 Oct)
 
-- 
-- 
+- Worked on the FE of the stock page -> get the stock search results, designs for the page etc.
+- Worked on the BE of the stock page and help w/ the architecture
 ---------------------------------
 
 Week 7 (26 Oct - 1 Nov)
