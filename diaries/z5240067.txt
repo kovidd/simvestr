@@ -56,14 +56,16 @@ Week 5 (12 Oct - 18 Oct)
 
 Week 6 (19 Oct - 25 Oct)
 
-- 
-- 
+- Submitted the retro doc to tutor as well as class account
+- Continued work on market-orders
+- Worked on a function to run protected endpoints without passing user_id from FE
 ---------------------------------
 
 Week 7 (26 Oct - 1 Nov)
 
--
--
+- Added more checks to the market-order endpoint
+- Started project report in overleaf
+- Add detailed respone to token api
 ---------------------------------
 
 Week 8 (2 Nov - 8 Nov)
