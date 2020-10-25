@@ -63,6 +63,21 @@ Week 05:
 	* Prepared the restrospective report to be submitted.
 	* Discussed things to try for the next sprint.
 - Worked on the front-end design for the user account settings and awaiting endpoints to integrate with backend.
+- Issue with cookie saving into browser => blocks testing account settings.
+- Weekly Catchup Meeting on Sunday at 11:00am:
+	* Retrospective meeting discussing what went well in first sprint and what needs to improve and what we will try.
+	* Filled out the retrospective report.
+
+
+Week 06:
+--------
+- Worked on the front-end design for the watchlist page.
+- Integrated watchlist with backend as in for a static list of stocks, prices are queried from API.
+- Code style improvement for the watchlist to use material-ui Tables.
+- Weekly Catchup Meeting on Sunday at 11:00am:
+	* Agreed on sorting out the duplicate exchanges.
+	* Watchlist to be completed from the BE to be integrated afterwards.
+	* Sorting out the cookie issue for the user token.
 	
 	
 
