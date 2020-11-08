@@ -78,6 +78,30 @@ Week 06:
 	* Agreed on sorting out the duplicate exchanges.
 	* Watchlist to be completed from the BE to be integrated afterwards.
 	* Sorting out the cookie issue for the user token.
+
+
+Week 07:
+--------
+- Worked on integrating the front-end watchlist with the backend: bug in backend code => awaiting fix
+- Created preliminary formatting for portfolio dahsboard page.
+- Hosted the application on a Linux virtual machine, configured domain DNS and firewall rules to have the website www.simvstr.com pointing to the application hosted on the linux machine.
+- Weekly Catchup Meething on Sunday at 11:00am:
+	* Discussed user stories to include in the demo.
+	* Agreed on next steps required for completion of project.
+	
+Week 08:
+--------
+- Prepared a preliminary outline for the project report.
+- Second demo completed on Wednesday
+- Retrospective meeting on Sunday at 11:00 am:
+	* Prepared the restrospective report to be submitted.
+	* Discussed things to try for the last two weeks.
+- Weekly Catchup Meeting on Sunday at 11:00am:
+	* Retrospective meeting discussing what went well in second sprint and what needs to improve and what we will try.
+	* Filled out the retrospective report.
+
+
+
 	
 	
 
