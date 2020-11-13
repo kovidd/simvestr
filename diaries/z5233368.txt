@@ -52,20 +52,27 @@ Week 6 (19 Oct - 25 Oct)
 
 Week 7 (26 Oct - 1 Nov)
 
--
--
+- Demonstration #2 of the application to the tutor
+- Weekly team meeting on Wednesday
 ---------------------------------
 
 Week 8 (2 Nov - 8 Nov)
 
--
--
+- Worked on the FE of the stock page
+- Implemented historical chart data for each stock on the stock page
+- Update the UI of the watchlist to match the stock page
+- Weekly team meeting on Wednesday
+- Group meeting on Sunday where we went through the retrospective
+
 ---------------------------------
 
 Week 9 (9 Nov - 15 Nov)
 
--
--
+- Worked on the FE of the dashboard
+- Stock page when search stock change url, improve functionality
+- Weekly team meeting on Wednesday, sprint planning & refinement
+- Meeting w/ Khan & Kovid regarding the existing API endpoints
+- Integrate the CSV export into the FE
 ---------------------------------
 
 Week 10 (16 Nov - 22 Nov)
