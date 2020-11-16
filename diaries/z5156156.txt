@@ -99,6 +99,24 @@ Week 08:
 - Weekly Catchup Meeting on Sunday at 11:00am:
 	* Retrospective meeting discussing what went well in second sprint and what needs to improve and what we will try.
 	* Filled out the retrospective report.
+	
+Week 09:
+--------
+- Started writing out the overview section of the project report.
+- Continued writing the functionalities and mapping to objectives.
+- Testing the application and checking for any bugs/typos.
+- Weekly Catchup Meeting on Satursday at 11:00am:
+	* Discussed pending tasks and user stories.
+	* Discussed the project report.
+- Weekly Catchup Meeting on Sunday at 11:00am:
+	* Continued discussion on project report.
+	* Discussed final demo
+
+Week 10:
+--------
+- Final review to code and project report.
+- Prepared demo outline and scenarios and shared with team members
+- Final Demo on Wednesday at 5:50PM.
 
 
 
