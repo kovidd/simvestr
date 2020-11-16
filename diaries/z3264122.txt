@@ -13,7 +13,7 @@ Week 02 (21Sep20)
 =================
 
 Wednesday
-- Tutorial
+- Tutorial - meeting with Sahil
 
 Saturday
 - Teams meeting 11am to discus project backend requirements.
@@ -21,3 +21,219 @@ Saturday
 Sunday
 - Teams meeting 11am to set up sprints
 
+Week 03 (28Sep20)
+=================
+Monday
+- working through some tutorials on flask, this is what we are using for the backend.
+
+Tuesday
+- Took on writing a search page for the stocks and learning how this connects to the backend
+
+Wednesday
+- Team meeting with Sahil
+
+Thursday
+- Expored code written by other team members to try to ensure my own code fits with existing standards (some of the team members are experienced coders with React so worth benefitting from their experience.
+
+Friday
+-
+
+Saturday
+-
+
+Sunday
+- Teams meeting 11am to discuss progress
+
+Week 04 (05Oct20)
+=================
+Monday
+- trying to get the backend to work with apache on a virtual machine - it would be useful, as all team members could use the same backend.
+
+Tuesday
+- 
+
+Wednesday
+- Team meeting with Sahil - the software he uses for meetings is not good, and today I had no audio - we had to go over to Team and invite him.
+
+Thursday
+- Team communication is continueing to improve. Not that it was ever bad, but I think team members are getting used to each other now and bouncing ideas off each other is leading to great ideas in this project.
+
+Friday
+-
+
+Saturday
+- 
+
+Sunday
+- Meeting to discuss demo next week.
+- Having problems with the login to the system, the security is very good and if the back end doesnt connect properly its impossible to to development work.
+- Manged to find a solution to getting around the security, i.e. where to change the code.
+
+
+
+Week 05 (12Oct20)
+=================
+Monday
+-
+
+Tuesday
+-
+
+Wednesday
+- First demonstration. Went well, 
+
+Thursday
+- CORS problem still blighting the project a bit. Have installed some extensions but these don't seem to be working any more.
+
+Friday
+-
+
+Saturday
+- Spent a fair amount to time trying to solve the CORS problem which has got worse recently.
+
+Sunday
+- Meeting to discuss the retrospect
+- Spent a few hours finishing off the Leaderboard
+
+Week 06 (19Oct20)
+=================
+
+Monday
+-  Sorted out some problems with a coding conflict with some API endpoints
+
+Tuesday
+- Created an updated database schema and posted it to the team.
+- Also tested some 
+
+Wednesday
+- No meeting with Sahil this week as it is flexibility week.
+
+Thursday
+-
+
+Friday
+-
+
+Saturday
+-
+
+Sunday
+- More on the leader board front and backends. Tim had given me a few comments in the last PR so worked on those. Got stuck a few times but persevered and worked out solutions.
+
+
+Week 07 (26Oct20)
+=================
+
+Monday
+- Pushed the leaderboards front and back end code - made PRs for these - the backend has been merged.
+- Pulled a fresh copy of the backend code. Still need to work out how to find the user id as it is currently hard coded.
+
+Tuesday
+- 
+
+Wednesday
+- Meeting with Sahil, 
+
+Thursday
+- Looking at how styled components work - this is a CSS in JS library that we are extensively using in this project. Have changed some of my code to align with this standard. Not using index.css any more.
+
+
+Friday
+- explored how to do the CSV export and got this exporting the portfolio data.
+
+Saturday
+- Fixed backend API for leaderboard after database changes
+
+Sunday
+- Caught up with the team and planning to get loose end sorted for the 
+- Tim helped with github merging, majority of my code now in masters on back and front ends.
+
+Week 08 (2Nov20)
+=================
+
+Monday
+- Pushed and merged changes to the FAQ and Terms and Conditions text.
+- Push revised leaderboard API endpoints, added a few more to enable future scolling and paging
+
+Tuesday
+- Started adding text to final report (User Manual and References)
+- Looked at introducing more functionality in Leaderboard (scrolling/paging)
+- Added bug report and new userstory (allow user to delete account)
+
+Wednesday
+- Great demo by Jay today, we had a really useful chat whilst we waited.
+
+Thursday
+-
+
+Friday
+- Updated the database ER diagram - seems to be constantly changing so its good to keep the diagram upto date.
+
+Saturday
+- Looking at the delete functionality as we need to be able to delete a user and all their data if they want to.
+
+Sunday
+- Very long meeting today - very productive though.
+Worked together to get the retrospective done, and then prioritise work for the week.
+- Looked at the export CSV functionality, Kovid had done quite alot of this but I wanted to find out how it worked so I could code the front end.
+- Finished off the leaderboard code, simplified this alot and made it more user friendly
+
+Week 09 (9Nov20)
+=================
+
+Monday
+- Pushed the leaderboard code and created a push request.
+- Started on some of the system testing scripts.
+- Wrote some text for the final report and put in some figures.
+
+Tuesday
+- Created the code for the export functionality, but the back end has broken
+- Been chatting to Kovid about the broken code, I need to test the export stuff.
+
+Wednesday
+- wrote some of the user manual for the final report
+- Meeting with Sahil, discussed the demo next week
+- began the update to the leaderboard to take into account portfolio values that were the same, e.g. if the top two portfolios have the same value then both users are in 1st place, and there is no 2nd place.
+
+Thursday
+- Spent most of the day on the change to the leaderboard, many edge cases which were breaking the code. Turned out to be a sorting issue.
+
+Friday
+- uploaded the revised DB diagram for the report
+- Finished off the FE code for the Export Portfolio functionality
+- Started the FE code for the Delete Account functionality
+
+Saturday
+- team meeting, work out timetable for report
+- tested export portfolio
+- updated scrolling for leaderboard to improve the software quality, it was vunerable to things like font size changes. Much more professional now.
+
+Sunday
+- team meeting, finalised how to finish report, last few software issues and how the demo was going to be run
+- tested and pushed final delete account code
+- Great chat with Khan about the testing
+
+Week 10 (16Nov20)
+=================
+
+Monday
+- tested the delete function (there was a CORS issue but that is solved now)
+- Wrote test for the delete account function
+- Report writing
+
+Tuesday
+- 
+
+Wednesday
+-
+
+Thursday
+-
+
+Friday
+-
+
+Saturday
+-
+
+Sunday
