@@ -73,10 +73,12 @@ Week 9 (9 Nov - 15 Nov)
 - Weekly team meeting on Wednesday, sprint planning & refinement
 - Meeting w/ Khan & Kovid regarding the existing API endpoints
 - Integrate the CSV export into the FE
+- Work on my assigned sections for the report
 ---------------------------------
 
 Week 10 (16 Nov - 22 Nov)
 
--
--
+- Worked on the FE across the whole application to finalise and get ready for submission
+- Worked with the team to finish the report
+- Had two team meetings
 ---------------------------------
