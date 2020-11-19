@@ -16,33 +16,33 @@ Wednesday
 - Tutorial - meeting with Sahil
 
 Saturday
-- Teams meeting 11am to discus project backend requirements.
+- Teams meeting 11am to discus project backend requirements. Agreed basic team roles, for me it is a bit of both back end (BE) and front end (FE) as I want experience of both.
 
 Sunday
-- Teams meeting 11am to set up sprints
+- Teams meeting 11am to set up sprints - learning loads about JIRA - seems to be an overkil for this project but I do want to learn how this works.
 
 Week 03 (28Sep20)
 =================
 Monday
-- working through some tutorials on flask, this is what we are using for the backend.
+- working through some tutorials on flask, this is what we are using for the BE.
 
 Tuesday
-- Took on writing a search page for the stocks and learning how this connects to the backend
+- Took on writing a search page for the stocks and learning how this connects to the BE
 
 Wednesday
-- Team meeting with Sahil
+- Team meeting with Sahil - discussed what to do before the Sunday meeting.
 
 Thursday
-- Expored code written by other team members to try to ensure my own code fits with existing standards (some of the team members are experienced coders with React so worth benefitting from their experience.
+- Expored code written by other team members to try to ensure my own code fits with existing standards (some of the team members are experienced coders with React so worth benefitting from their experience).
 
 Friday
 -
 
 Saturday
--
+- working on rewriting some of my code to make it more robusts
 
 Sunday
-- Teams meeting 11am to discuss progress
+- Teams meeting 11am to discuss progress - things going well - good team spirit and everyone knows what is happening.
 
 Week 04 (05Oct20)
 =================
@@ -59,7 +59,7 @@ Thursday
 - Team communication is continueing to improve. Not that it was ever bad, but I think team members are getting used to each other now and bouncing ideas off each other is leading to great ideas in this project.
 
 Friday
--
+- Having problems with getting things to run due to a CORS issue, spent some time research this and working out solutions.
 
 Saturday
 - 
@@ -70,17 +70,16 @@ Sunday
 - Manged to find a solution to getting around the security, i.e. where to change the code.
 
 
-
 Week 05 (12Oct20)
 =================
 Monday
 -
 
 Tuesday
--
+- Looked into how we were going to code a Terms and Conditions page.
 
 Wednesday
-- First demonstration. Went well, 
+- First demonstration. Went well, we met up before to run thought this and we all made suggestions.
 
 Thursday
 - CORS problem still blighting the project a bit. Have installed some extensions but these don't seem to be working any more.
@@ -89,11 +88,11 @@ Friday
 -
 
 Saturday
-- Spent a fair amount to time trying to solve the CORS problem which has got worse recently.
+- Spent a fair amount to time trying to solve the CORS problem which has got worse recently. 
 
 Sunday
-- Meeting to discuss the retrospect
-- Spent a few hours finishing off the Leaderboard
+- Meeting to discuss the retrospect - the online document editing by all team members went really well, and the discussion on each persons contribution. The retrospect was really useful and I think we have a great document.
+- Spent a few hours designing and doing the first coding of the leaderboad.
 
 Week 06 (19Oct20)
 =================
@@ -109,7 +108,7 @@ Wednesday
 - No meeting with Sahil this week as it is flexibility week.
 
 Thursday
--
+- The Terms and Conditions page is now working and can be accessed by registered and unregistered users.
 
 Friday
 -
@@ -127,12 +126,14 @@ Week 07 (26Oct20)
 Monday
 - Pushed the leaderboards front and back end code - made PRs for these - the backend has been merged.
 - Pulled a fresh copy of the backend code. Still need to work out how to find the user id as it is currently hard coded.
+- Started on the FAQ page.
 
 Tuesday
-- 
+- Finished FAQ, relatively straightford as only registered users can access it.
+- Finally upto speed on how react handles the user navigation in our system. Have made a few changes to this.
 
 Wednesday
-- Meeting with Sahil, 
+- Meeting with Sahil.
 
 Thursday
 - Looking at how styled components work - this is a CSS in JS library that we are extensively using in this project. Have changed some of my code to align with this standard. Not using index.css any more.
@@ -219,21 +220,12 @@ Week 10 (16Nov20)
 Monday
 - tested the delete function (there was a CORS issue but that is solved now)
 - Wrote test for the delete account function
-- Report writing
+- Report writing - mainly the user manual but also refreshed all the screenshot after recent code changes.
+- Team meetings up to midnight to finalise our report
 
 Tuesday
-- 
+- Updated the ER diagram - looks good and demonstrates how our system is flexible and robust to further changes. 
 
 Wednesday
--
-
-Thursday
--
-
-Friday
--
-
-Saturday
--
-
-Sunday
+- practiced contribution to final demo
+- final demo with Sahil (had to talk fast to get under 18 mins)
