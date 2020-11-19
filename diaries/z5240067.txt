@@ -66,22 +66,35 @@ Week 7 (26 Oct - 1 Nov)
 - Added more checks to the market-order endpoint
 - Started project report in overleaf
 - Add detailed respone to token api
+- 
 ---------------------------------
 
 Week 8 (2 Nov - 8 Nov)
 
--
--
+- Demo B on Wed, went great
+- Managed to run the Retrospective B on Sunday, 8th Nov
+- Started work on the exporting of portfolio as a xlsx file
 ---------------------------------
 
 Week 9 (9 Nov - 15 Nov)
 
--
--
+- Finished the export portfolio
+- Report:
+  - User signup and authentication, Marketorder BE sections
+  - Webapp flow diagram
+- Worked on removing the user
+- Added another api for refreshing the token
 ---------------------------------
 
 Week 10 (16 Nov - 22 Nov)
 
--
--
+- Organized and cleaned up endpoints
+- Report:
+  - Added overview and the system architecture diagram
+  - Marketorder, Watchlist BE sections
+  - Update/review screenshots of the final product
+  - Third party apis BE
+- Project and code base sumbission 
+- Final demo on the 18th of Nov
+- Submitted Peer assessment, Friday 20th Nov
 ---------------------------------
