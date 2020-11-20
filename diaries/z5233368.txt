@@ -34,13 +34,15 @@ Week 4 (5 Oct - 11 Oct)
 
 - Started prepping for Progressive Demo A
 - Meeting on the 7th of October, discussed with team API structure and task allocations
+- Further developed the theme of the application, made mock up designs
 - FE development work - build the homepage, setup for API integration, finalise color theme
--
 ---------------------------------
 
 Week 5 (12 Oct - 18 Oct)
 
 - Helped demo the presentation of the application to tutor
+- Fix authentication token state issue
+- Fix api routing on the FE, add form management structure
 - Team retro/review of progress -> helped run the session and put together the documentation
 ---------------------------------
 
@@ -53,6 +55,7 @@ Week 6 (19 Oct - 25 Oct)
 Week 7 (26 Oct - 1 Nov)
 
 - Demonstration #2 of the application to the tutor
+- Worked on the FE of the application -> implemented logic for the stock market orders etc
 - Weekly team meeting on Wednesday
 ---------------------------------
 
@@ -63,12 +66,12 @@ Week 8 (2 Nov - 8 Nov)
 - Update the UI of the watchlist to match the stock page
 - Weekly team meeting on Wednesday
 - Group meeting on Sunday where we went through the retrospective
-
+- Sorted out the auth cookie issue
 ---------------------------------
 
 Week 9 (9 Nov - 15 Nov)
 
-- Worked on the FE of the dashboard
+- Implemented the complete FE dashboard page
 - Stock page when search stock change url, improve functionality
 - Weekly team meeting on Wednesday, sprint planning & refinement
 - Meeting w/ Khan & Kovid regarding the existing API endpoints
@@ -78,7 +81,12 @@ Week 9 (9 Nov - 15 Nov)
 
 Week 10 (16 Nov - 22 Nov)
 
+- Implemented a large number of bug fixes across the FE
+- Implemented UX/UI improvements across the FE
+- Reviewed code for the leaderboard/faq and made changes
+- Meeting w/ Khan to review the endpoints
 - Worked on the FE across the whole application to finalise and get ready for submission
 - Worked with the team to finish the report
-- Had two team meetings
+- Had two team meetings in prepartion for the report and the final demo
+- Presented in the final demo the section on the stock search and market orders
 ---------------------------------
