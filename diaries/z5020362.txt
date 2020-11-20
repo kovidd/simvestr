@@ -44,3 +44,74 @@ Week 4:
     * Built packaging
     * Wrote install and package instructions
     * Built out rough stock search api
+    
+
+========================================================================================================================
+
+Week 5:
+    * Progressive demo this week. Went well!
+    * Sprint 2 started
+    * Working on search and watchlist stuff. Mostly search. 
+    * Some database changes for the watchlist
+
+========================================================================================================================
+
+Week 6:
+    * Did retro with team on sunday
+    * Reafctored code base a bit and did general clean up
+    * Separated helpers from apis (well, started to)
+    * Spent some time making a git action to do Continuous Integration
+    * Generalised search
+    * Some db changes
+    
+
+========================================================================================================================
+
+Week 7:   
+    * Added some endpoints to stock search (name search). Makes searching for FE guys easier.
+    * Market order bug fixes
+    * Clean up and refactored code again
+    * Integrated the cookie into the endpoint auth
+    * Added some error catchign to auth
+    * Tweaked watchlist and fixed bugs
+    * Built transactions
+    * Built out user info api
+    * Bugfix for transactions
+    * Built the test folders and intitial tests
+
+========================================================================================================================
+
+Week 8:    
+    * Demo week! Went well again, Jey smashed it
+    * Tweaked database again
+    * Started building the portfolio calculator that will run in the background
+    * Added endpoint to search for candles
+    * Bugfix on user balance
+    * Started implementing the parsers and API models to document the endpoint
+    
+========================================================================================================================
+
+Week 9:    
+    * Finished first draft of the scheduler (portfolio balance calculator)
+    * Really put in some work on testing. Found some important bugs - eg being able to sign in with any password(!)
+    * Enabled git action to start running test in CI flow
+    * Cleaning endpoints and abstracting code, refactoring
+    * Fixed crypto search bugs
+    * Updating swagger
+    * Bug fixes for watchlist
+    * Market order bug fixes
+    * More work on portfolio totals
+    * Historic performance endpoint
+    * Lots more testing
+    
+========================================================================================================================
+
+Week 10:
+    * Lots of work on report
+    * Building out production server code
+    * Bug fixes
+    * Swagger improvements
+    * Submitted reoprt
+    * Final demo
+    * Packaging, requirments and README.md stuff
+    
